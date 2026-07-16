@@ -39,7 +39,7 @@ The cleaned dataset is ready for Exploratory Data Analysis (EDA) and machine lea
 
 ```text
 .
-├── DataCleaning.ipynb
+├── Data_Cleaning.ipynb
 ├── rawdataset.csv
 ├── dataset_clean.csv
 └── README.md
